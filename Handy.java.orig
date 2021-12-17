@@ -1,9 +1,0 @@
-<<<<<<< HEAD
-public class Handy(){
-    private String _brand;
-}
-=======
-public class Handy(){
-private int _handyId;
-}
->>>>>>> d6260ed870df64eeda2b1fb0b42a264b3e172085
