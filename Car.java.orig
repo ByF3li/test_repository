@@ -1,8 +1,0 @@
-public class Car(){
-<<<<<<< HEAD
-    private String _name;
-}
-=======
- private int _carId; 
-}
->>>>>>> 3abc72b6d02e614e462966fa9cacd8da2f8dfcfe
