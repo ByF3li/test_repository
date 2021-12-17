@@ -1,3 +1,4 @@
 public class Car(){
-    private String _name;
+ private int _carId;
+ private String _name;
 }
